@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>AWS Static Website Hosting</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) <b><i>(More Projects Coming)</b></i>
+  - [Aws Static Website](https://github.com/Diealegend/AWS-Static-Web-site-Hosting/tree/main) <b><i>(More Projects Coming)</b></i>
 - <b>Azure</b>
   
 
